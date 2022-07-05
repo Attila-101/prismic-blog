@@ -45,33 +45,7 @@ const TextareaField = ({ label, name, placeholder, required = true }) => {
 const ContactForm = () => {
   return (
     <Bounded as="section" size="small">
-      <form
-        action="/api/contact"
-        method="post"
-        className="grid grid-cols-1 gap-6"
-      >
-        <InputField label="Name" name="name" placeholder="Jane Doe" />
-        <InputField
-          label="Email Address"
-          name="email"
-          type="email"
-          placeholder="jane.doe@example.com"
-        />
-        <TextareaField
-          label="Message"
-          name="message"
-          placeholder="Write your message here…"
-        />
-        <button
-          type="submit"
-          className="ml-auto inline-flex items-center gap-2"
-        >
-          Send message{" "}
-          <span aria-hidden={true} className="text-xl">
-            &rarr;
-          </span>
-        </button>
-      </form>
+      {/* <a href="mailto:attila@gmail.com">If you dare</a> */}
     </Bounded>
   );
 };

@@ -254,6 +254,14 @@
                     "allowTargetBlank": true,
                     "multi": "paragraph,preformatted,heading1,heading2,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl,heading3"
                   }
+                },
+                "link": {
+                  "type": "Link",
+                  "config": {
+                    "label": "Link",
+                    "placeholder": "",
+                    "select": null
+                  }
                 }
               },
               "items": {},
@@ -271,10 +279,14 @@
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Ut aliqua mollit deserunt qui aute cillum do sint aliqua.",
+                  "text": "Labore esse nulla ullamco qui. Sunt ullamco ipsum proident sunt irure. Velit exercitation eu elit voluptate sint anim esse cillum veniam elit mollit et labore.",
                   "spans": []
                 }
-              ]
+              ],
+              "link": {
+                "link_type": "Web",
+                "url": "https://slicemachine.dev"
+              }
             }
           }
         },
@@ -282,7 +294,13 @@
           "fileName": "index",
           "extension": "js"
         },
-        "screenshotPaths": {}
+        "screenshotPaths": {
+          "default": {
+            "path": "C:\\Users\\Attila\\desktop\\code\\module6\\.slicemachine\\assets\\slices\\Text\\default\\preview.png",
+            "width": 800,
+            "height": 178
+          }
+        }
       }
     }
   }
