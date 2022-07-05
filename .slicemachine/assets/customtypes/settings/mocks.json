@@ -1,0 +1,44 @@
+{
+  "id": "855daf45-4fc9-41f1-a70a-c7aabe068253",
+  "uid": "reprehenderit-velit-quam",
+  "type": "settings",
+  "data": {
+    "description": [
+      {
+        "type": "paragraph",
+        "text": "Et duis velit eu excepteur occaecat adipisicing in. Incididunt excepteur aliqua aute in officia ex tempor nostrud reprehenderit eiusmod commodo ut. Reprehenderit sunt sit cillum aute qui amet.",
+        "spans": []
+      }
+    ],
+    "name": [
+      {
+        "type": "heading1",
+        "text": "Drive plug-and-play methodologies",
+        "spans": []
+      }
+    ],
+    "profilePicture": {
+      "dimensions": {
+        "width": 2000,
+        "height": 2000
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?w=2000&h=2000&fit=crop"
+    },
+    "newsletterDescription": [
+      {
+        "type": "paragraph",
+        "text": "Ipsum tempor exercitation tempor anim ullamco eu. Veniam aute do ad aliquip.",
+        "spans": []
+      }
+    ],
+    "newsletterDisclaimer": [
+      {
+        "type": "paragraph",
+        "text": "Id voluptate minim tempor commodo amet officia. Minim officia qui quis eiusmod cillum eu enim nostrud laboris sunt do. Exercitation culpa adipisicing amet non sint cillum aliquip mollit ullamco sit veniam velit officia.",
+        "spans": []
+      }
+    ]
+  }
+}
