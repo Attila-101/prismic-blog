@@ -1,15 +1,14 @@
 # Prismic + Next.js Blog Starter
 
-This sample blog is an excellent starting point to explore [Next.js][nextjs] and [Prismic][prismic]. Get it up and running in minutes. Modify and adapt it to your liking; it's all yours!
-
-- **Demo**: [Open live demo][live-demo]
-- **Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
+This blog was built with [Next.js][nextjs] and [Prismic][prismic] using the starter blog from the Prismic community. The project uses Prismic Slice Machine.
 
 &nbsp;
 
 <img src="https://raw.githubusercontent.com/Attila-101/prismic-blog/main/public/images/cereal-killer-blog.png" alt="Screenshots of the site seen on deskop and mobile browsers" />
 
 &nbsp;
+
+**Learn more about Prismic and Next.js**: [Prismic Next.js Documentation][prismic-docs]
 
 ## 🚀 Quick Start
 
